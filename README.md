@@ -2,7 +2,7 @@
 
 Este repositorio es un proyecto de práctica utilizado para implementar conceptos de desarrollo web, pruebas de maquetación y configuraciones de despliegue en entornos de producción.
 
-**🔗 Enlace al proyecto:** [Visitar sitio en producción](https://enmanuel-miranda.github.io/proyecto-ejemplo/)
+**🔗 Enlace al proyecto:** [Visitar sitio en producción](https://enmanuel-miranda.github.io/proyecto_ejemplo.github.io/)
 
 ---
 
